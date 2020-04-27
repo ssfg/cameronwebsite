@@ -16,7 +16,7 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: 50px;
+  margin: 100px;
 }
 
 .imageStyle {
